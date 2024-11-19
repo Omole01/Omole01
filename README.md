@@ -9,3 +9,4 @@
        I'm a passionate Data Analyst and Biochemist. I love turning raw data into useful insights with engaging visualizations. With a meticulous, scientific approach, i ensure data accuracy and deliver findings in a clear and accessible way for both technical and non technical audience You’re welcome to join me in exploring the exciting world of data and discovering the stories it holds!" 📊🔍✨
     </p>
     <p style="color: black; font-size: 16px; font-weight: bold;">Connect with me:</p>
+     <a href="https://www.linkedin.com/in/gbeminiyi-omole01" target="_blank" style="display: inline-block; background-color: purple; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">LinkedIn</a>
