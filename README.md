@@ -10,4 +10,4 @@
     </p>
     <p style="color: black; font-size: 16px; font-weight: bold;">Connect with me:</p>
      <a href="https://www.linkedin.com/in/gbeminiyi-omole01" target="_blank" style="display: inline-block; background-color: purple; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">LinkedIn</a>
-    <a href="https://fruitful-esther.github.io/portfolio" target="_blank" style="display: inline-block; background-color: green; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Web Portfolio</a>
+    <a href="https://omole01.github.io/PORTFOLIO/" target="_blank" style="display: inline-block; background-color: green; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Web Portfolio</a>
